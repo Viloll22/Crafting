@@ -16,7 +16,7 @@
 - Actualizaciones gratuitas de por vida si el vendedor tiene una nueva actualización
 
 ** Dependencias
--pNotify
+- pNotify
 
 ** Cómo instalar **
 1. recursos de fivem.
