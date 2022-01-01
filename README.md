@@ -19,7 +19,7 @@
 - pNotify
 
 ** Cómo instalar **
-1. recursos de fivem.
+1. Abra resources de fivem.
 2. Agregue start crafting a server.cfg.
 3. Introduzca la clave de licencia proporcionada por el vendedor en el archivo. config_sv.lua
 4. Personalice lo que se puede hacer en el archivo config.lua.
